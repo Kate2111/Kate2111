@@ -3,7 +3,7 @@
 </p><h3 align="left">Свяжитесь со мной:</h3><p align="left">
 
 <a href="https://linkedin.com/in/ekaterina-noskova-49a0aa228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterina-noskova-49a0aa228" height="20" width="30"></a>
-<a href="https://instagram.com/noskova_kate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noskova_kate" height="25" width="25" /></a>
+<a href="https://instagram.com/noskova_katy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noskova_kate" height="25" width="25" /></a>
 <a href="https://t.me/@Noskova_Ekaterina" target="blank"><img align="center" src="https://github.com/Kate2111/Kate2111/blob/main/telegram.png" alt="telegram" height="25" width="25" />
   <br> </br> 
 </p><h3 align="left">Languages and Tools:</h3><p align="left">
@@ -25,9 +25,11 @@
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/></p>
   <br></br>
 </p><h3 align="left">GitHub Stats:</h3><p align="left">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate2111&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kate2111" width="40%" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kate2111&" alt="kate2111" width="40%" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kate2111&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="kate2111" width="40%" /></p>
+<div display="flex">
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kate2111&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kate2111" width="40%" /></p>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kate2111&" alt="kate2111" width="40%" /></p>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kate2111&theme=default&hide_border=false&include_all_commits=false&count_private=false" alt="kate2111" width="40%" /></p>
+</div>
 
 
   
