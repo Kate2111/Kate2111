@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/ekaterina-noskova-49a0aa228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterina-noskova-49a0aa228" height="20" width="30"></a>
 <a href="https://instagram.com/noskova_katy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="noskova_kate" height="25" width="25" /></a>
-<a href="https://t.me/@Noskova_Ekaterina" target="blank"><img align="center" src="https://github.com/Kate2111/Kate2111/blob/main/telegram.png" alt="telegram" height="25" width="25" />
+<a href="https://t.me/Noskova_Ekaterina" target="blank"><img align="center" src="https://github.com/Kate2111/Kate2111/blob/main/telegram.png" alt="telegram" height="25" width="25" />
   <br> </br> 
 </p><h3 align="left">Languages and Tools:</h3><p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
