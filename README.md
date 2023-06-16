@@ -1,5 +1,14 @@
 ![MasterHead](https://github.com/Kate2111/Kate2111/blob/main/OSM-MR9_remote.jpg)
 
+</p><h3 align="left">Привет 👋 меня зовут Катя и я Фронтенд-разработчик</h3><p align="left">
+<ul>
+  <li> Мне нравиться создавать полезные и понятные веб-приложения</li>
+  <li> Хочу поучаствовать в разработке интересного и сложного продукта</li>
+  <li> Ищу дружный коллектив</li>
+  <li> Сейчас погружёна в изучение и отработку алгоритмов</li>
+</ul>
+
+
 </p><h3 align="left">Свяжитесь со мной:</h3><p align="left">
 
 <a href="https://linkedin.com/in/ekaterina-noskova-49a0aa228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ekaterina-noskova-49a0aa228" height="20" width="30"></a>
